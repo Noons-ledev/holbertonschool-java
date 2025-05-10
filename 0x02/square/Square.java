@@ -1,4 +1,3 @@
-package square;
 public class Square {
     public static double area(double side) throws Exception{
         if (side < 0) {
